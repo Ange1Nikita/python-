@@ -1,1 +1,0 @@
-login = 'Ange1Nikita@yandex.ru'
